@@ -13,13 +13,14 @@ Using the procided data set, supervised machine learning tools will be used to p
 1) Remodel the features for analysis
     - If the order is placed on weekday or weekend
     - Hour encoding for transaction time during work hours
-    - 
+    - Time since last transaction
+    - Card use frequency in last 7 days
+    - Card use frequency in last 30 days
 2) One hot coding for gender, category and job
 3) Random Forest with hypertuning
 4) Assign a clustering value to each transaction and compare to the cluster value of the cardholder history. Bigger changes increases fraud chance
    - Cardholder clustering
    - merchant clustering with amount, category and location
-   - 
 
 
 
