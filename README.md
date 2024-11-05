@@ -28,3 +28,8 @@ Future work:
 - Import national holiday calendar to provide additional information if it is a workday, holiday, or weeked.
 - Analyze fraud for different market time periods. (Ex: gift card fraud for certain merchants may increase around holiday season)
 - Correlate buying time with type of merchant to predict fradulent if purchasing outside of typical buying time (Ex: groceries may be bought through workweek while eating at a fancy resteraunt most often occurs on Friday and Satudray evening).
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Converting to categories, setting the order of categories can be useful.
